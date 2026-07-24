@@ -28,4 +28,4 @@ Welcome to my corner of the web. I do random nonsense and am proud of it.
 ---
 
 [![Voblit's GitHub stats](https://github-stats-extended.vercel.app/api?username=Voblit)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Voblit&layout=compact&theme=synthwave)]
+[Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Voblit)

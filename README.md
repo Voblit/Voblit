@@ -17,7 +17,6 @@ Welcome to my corner of the web. I do random nonsense and am proud of it.
   * [CENTCOM bsky bridge](https://bsky.app/centcom.houndfetch.cc)
   * [python-2-ez80 assembly](https://github.com/voblit/py2ez80)
   * [Personal site](https://voblit.vercel.app)
-* ** Ask me about:** dont.
 
 ###  Connect & Links
 

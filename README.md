@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Voblit/Voblit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey
 
-Here are some ideas to get you started:
+> *"i have internet... fear me"*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my corner of the web. I do random nonsense and am proud of it.
+---
+
+### 🚀 What I'm Up To
+
+* **Working on:** [py2ez80](https://github.com/voblit/py2ez80) — A Python-to-C/eZ80 transpiler bringing Python ease-of-use to TI-84 Plus CE calculators!
+* **trying desperately to learn:** C and D. (the languages.)
+* **Best projects:**
+  * [FlowersOS](https://i-like-flowersos.vercel.app)
+  * [Weatherscan](https://population-weatherscan.vercel.app)
+  * [Houndfetch games](https://wikisniff.vercel.app)
+  * [CENTCOM bsky bridge](https://bsky.app/centcom.houndfetch.cc)
+  * [python-2-ez80 assembly](https://github.com/voblit/py2ez80)
+  * [Personal site](https://voblit.vercel.app)
+* ** Ask me about:** dont.
+
+###  Connect & Links
+
+[voblit.vercel.app](https://www.google.com/search?q=https://voblit.vercel.app)
+[unit.link/voblit](https://unit.link/voblit)
+[internetometer.com](http://internetometer.com/give/52087)
+
+---
+
+[![Voblit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voblit&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voblit&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)

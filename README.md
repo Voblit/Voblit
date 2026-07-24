@@ -6,7 +6,7 @@
 Welcome to my corner of the web. I do random nonsense and am proud of it.
 ---
 
-### 🚀 What I'm Up To
+###  What I'm Up To
 
 * **Working on:** [py2ez80](https://github.com/voblit/py2ez80) — A Python-to-C/eZ80 transpiler bringing Python ease-of-use to TI-84 Plus CE calculators!
 * **trying desperately to learn:** C and D. (the languages.)

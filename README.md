@@ -1,38 +1,45 @@
-<h3 align="center">exists</h3>
+# Voblit
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voblit&label=Profile%20views&color=0e75b6&style=flat" alt="voblit" /> </p>
+> Voblit. -exists
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voblit" alt="voblit" /></a> </p>
+Student / Hobbyist | The Void
 
-- working on [py2ez80](https://github.com/voblit/py2ez80)
+---
 
-- trying to get better at **Dlang, npm**
+### Tech Stack
 
-made:
-- [Houndfetch](https://houndfetch.cc)
+![D](https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![eZ80](https://img.shields.io/badge/eZ80-Assembly-00599C?style=for-the-badge)
 
-- [Population-Weatherscan](https://population-weatherscan.vercel.app)
+---
 
-- [centcom bsky bridge](https://bsky.app/centcom.houndfetch.cc)
+### Projects
 
-- [I-Like-FlowersOS](https://i-like-flowersos.vercel.app)
+![py2ez80](https://img.shields.io/badge/py2ez80-Finished-success?style=flat-square)
+* [github.com/voblit/py2ez80](https://github.com/voblit/py2ez80)
 
-- you can see all my links at [https://unit.link/voblit](https://unit.link/voblit)
+![houndfetch.cc](https://img.shields.io/badge/houndfetch.cc-Active-blue?style=flat-square)
+* [houndfetch.cc](https://houndfetch.cc)
 
-- ask me about **nothing**
+![weather](https://img.shields.io/badge/population--weatherscan-Vercel-000000?style=flat-square)
+* [population-weatherscan.vercel.app](https://population-weatherscan.vercel.app)
 
-- email **voblit@inbox.lv**
+![OS](https://img.shields.io/badge/OS-i--like--flowersOS-green?style=flat-square)
+* i-like-flowersOS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Bridge](https://img.shields.io/badge/Bluesky-Centcom--Bridge-059669?style=flat-square)
+* `@centcom.houndfetch.cc`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voblit&show_icons=true&locale=en&layout=compact" alt="voblit" /></p>
+### Links & Handles
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voblit&show_icons=true&locale=en" alt="voblit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voblit&" alt="voblit" /></p>
-
+[![Website](https://img.shields.io/badge/Website-voblit.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://voblit.vercel.app)
+[![Unit Link](https://img.shields.io/badge/Hub-unit.link-6366F1?style=for-the-badge)](https://unit.link)
+[![Bluesky](https://img.shields.io/badge/Bluesky-voblit.houndfetch.cc-0284C7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/voblit.houndfetch.cc)
+[![Reddit](https://img.shields.io/badge/Reddit-thatguy1000000000-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/thatguy1000000000)
+[![Discord](https://img.shields.io/badge/Discord-ldc2.conf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#) 

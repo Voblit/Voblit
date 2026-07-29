@@ -29,7 +29,7 @@ Student / Hobbyist | currently floating around in the void, laughing at some cur
 * [population-weatherscan.vercel.app](https://population-weatherscan.vercel.app)
 
 ![OS](https://img.shields.io/badge/OS-i--like--flowersOS-green?style=flat-square)
-* i-like-flowersOS
+* [I~like~flowersOS](https://i-like-flowersos.vercel.app)
 
 ![Bridge](https://img.shields.io/badge/Bluesky-Centcom--Bridge-059669?style=flat-square)
 * `@centcom.houndfetch.cc`

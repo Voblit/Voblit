@@ -39,7 +39,7 @@ Student / Hobbyist | currently floating around in the void, laughing at some cur
 ### Links & Handles
 
 [![Website](https://img.shields.io/badge/Website-voblit.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://voblit.vercel.app)
-[![Unit Link](https://img.shields.io/badge/Hub-unit.link-6366F1?style=for-the-badge)](https://unit.link)
+[![Unit Link](https://img.shields.io/badge/Hub-unit.link-6366F1?style=for-the-badge)](https://unit.link/voblit)
 [![Bluesky](https://img.shields.io/badge/Bluesky-voblit.houndfetch.cc-0284C7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/voblit.houndfetch.cc)
 [![Reddit](https://img.shields.io/badge/Reddit-thatguy1000000000-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/thatguy1000000000)
 [![Discord](https://img.shields.io/badge/Discord-ldc2.conf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#) 

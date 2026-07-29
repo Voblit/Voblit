@@ -1,8 +1,8 @@
 # Voblit
 
-> Voblit. -exists
+> exists
 
-Student / Hobbyist | The Void
+Student / Hobbyist | currently floating around in the void, laughing at some cursed monokuma dialoug
 
 ---
 
@@ -19,7 +19,7 @@ Student / Hobbyist | The Void
 
 ### Projects
 
-![py2ez80](https://img.shields.io/badge/py2ez80-Finished-success?style=flat-square)
+![py2ez80](https://img.shields.io/badge/py2ez80-WIP?style=flat-square)
 * [github.com/voblit/py2ez80](https://github.com/voblit/py2ez80)
 
 ![houndfetch.cc](https://img.shields.io/badge/houndfetch.cc-Active-blue?style=flat-square)

@@ -19,7 +19,7 @@ Student / Hobbyist | currently floating around in the void, laughing at some cur
 
 ### Projects
 
-![py2ez80](https://img.shields.io/badge/py2ez80-WIP?style=flat-square)
+![py2ez80](https://img.shields.io/badge/py2ez80-WIP-yellow?style=flat-square)
 * [github.com/voblit/py2ez80](https://github.com/voblit/py2ez80)
 
 ![houndfetch.cc](https://img.shields.io/badge/houndfetch.cc-Active-blue?style=flat-square)

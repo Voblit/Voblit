@@ -1,4 +1,4 @@
-# Voblit <img src="https://raw.githubusercontent.com/danganronpa-assets/monokuma/main/monokuma-head.png" width="35" height="35" alt="Monokuma" align="center" />
+# Voblit 
 
 > exists
 

@@ -2,7 +2,7 @@
 
 > exists
 
-Student / Hobbyist | currently floating around in the void, laughing at some cursed monokuma dialogue
+Student / Hobbyist 
 
 ---
 
